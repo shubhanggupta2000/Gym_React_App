@@ -5,11 +5,16 @@ With the functionality to choose exercise categories and specific muscle groups,
 The app's Interface has been made with the help of Material UI (version 5)
 Data used in here has been obtained from Rapid API
 
+
 # Glimpse 
-![Screenshot from 2022-06-16 17-56-06](https://user-images.githubusercontent.com/79959361/174071190-760ba264-7dda-4187-9067-1e478eb14b46.png)
-![Screenshot from 2022-06-16 18-05-44](https://user-images.githubusercontent.com/79959361/174071193-3aa04096-2e3c-431b-ba7f-34b2f4a4883d.png)
-![Screenshot from 2022-06-16 18-05-52](https://user-images.githubusercontent.com/79959361/174071198-ab70ff47-4d2b-4848-bddc-4bcd5912542b.png)
+
+![Screenshot from 2022-06-16 18-10-30](https://user-images.githubusercontent.com/79959361/174071955-451605c1-c2e9-437d-b692-709bab819d5c.png)
+
+![Screenshot from 2022-06-16 18-10-51](https://user-images.githubusercontent.com/79959361/174071965-8ccd578c-5c80-4d42-bc3d-e96a1925009e.png)
+
+![Screenshot from 2022-06-16 18-11-13](https://user-images.githubusercontent.com/79959361/174071974-ed32c5e4-d77a-4886-bfb7-d797a2d1b562.png)
+
 
 ## Experience the app here 
 
-[Click on me](https://fazevennom-gym.netlify.app/)
+[Click me](https://fazevennom-gym.netlify.app/)
